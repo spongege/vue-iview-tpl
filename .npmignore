@@ -1,0 +1,23 @@
+# 忽略目录
+dist/
+examples/
+node_modules/
+packages/
+public/
+tests/
+
+
+#忽略指定文件
+.browserslistrc
+.editorconfig
+.env.production
+.env.test
+eslintignore
+.eslintrc.js
+.gitignore
+.prettierignore
+babel.config.js
+vue.config.js
+prettier.config.js
+package-lock.json
+jest.config.js
